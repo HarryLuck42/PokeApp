@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.luqman.corp.pokeapp-debug-28:/mipmap-xxxhdpi_my_icon.webp.flat",
+        "source": "com.luqman.corp.pokeapp-main-23:/mipmap-xxxhdpi/my_icon.webp"
+    },
+    {
+        "merged": "com.luqman.corp.pokeapp-debug-28:/mipmap-xhdpi_my_icon_round.webp.flat",
+        "source": "com.luqman.corp.pokeapp-main-23:/mipmap-xhdpi/my_icon_round.webp"
+    },
+    {
+        "merged": "com.luqman.corp.pokeapp-debug-28:/mipmap-xhdpi_my_icon.webp.flat",
+        "source": "com.luqman.corp.pokeapp-main-23:/mipmap-xhdpi/my_icon.webp"
+    },
+    {
+        "merged": "com.luqman.corp.pokeapp-debug-28:/mipmap-mdpi_my_icon_foreground.webp.flat",
+        "source": "com.luqman.corp.pokeapp-main-23:/mipmap-mdpi/my_icon_foreground.webp"
+    },
+    {
+        "merged": "com.luqman.corp.pokeapp-debug-28:/mipmap-hdpi_my_icon_foreground.webp.flat",
+        "source": "com.luqman.corp.pokeapp-main-23:/mipmap-hdpi/my_icon_foreground.webp"
+    },
+    {
+        "merged": "com.luqman.corp.pokeapp-debug-28:/drawable_my_icon_background.xml.flat",
+        "source": "com.luqman.corp.pokeapp-main-23:/drawable/my_icon_background.xml"
+    },
+    {
+        "merged": "com.luqman.corp.pokeapp-debug-28:/mipmap-xxhdpi_my_icon_foreground.webp.flat",
+        "source": "com.luqman.corp.pokeapp-main-23:/mipmap-xxhdpi/my_icon_foreground.webp"
+    },
+    {
+        "merged": "com.luqman.corp.pokeapp-debug-28:/mipmap-mdpi_my_icon_round.webp.flat",
+        "source": "com.luqman.corp.pokeapp-main-23:/mipmap-mdpi/my_icon_round.webp"
+    },
+    {
+        "merged": "com.luqman.corp.pokeapp-debug-28:/mipmap-xxxhdpi_my_icon_foreground.webp.flat",
+        "source": "com.luqman.corp.pokeapp-main-23:/mipmap-xxxhdpi/my_icon_foreground.webp"
+    },
+    {
+        "merged": "com.luqman.corp.pokeapp-debug-28:/mipmap-anydpi-v26_my_icon_round.xml.flat",
+        "source": "com.luqman.corp.pokeapp-main-23:/mipmap-anydpi-v26/my_icon_round.xml"
+    },
+    {
+        "merged": "com.luqman.corp.pokeapp-debug-28:/mipmap-xhdpi_my_icon_foreground.webp.flat",
+        "source": "com.luqman.corp.pokeapp-main-23:/mipmap-xhdpi/my_icon_foreground.webp"
+    },
+    {
+        "merged": "com.luqman.corp.pokeapp-debug-28:/mipmap-xxhdpi_my_icon.webp.flat",
+        "source": "com.luqman.corp.pokeapp-main-23:/mipmap-xxhdpi/my_icon.webp"
+    },
+    {
+        "merged": "com.luqman.corp.pokeapp-debug-28:/mipmap-anydpi-v26_my_icon.xml.flat",
+        "source": "com.luqman.corp.pokeapp-main-23:/mipmap-anydpi-v26/my_icon.xml"
+    },
+    {
+        "merged": "com.luqman.corp.pokeapp-debug-28:/mipmap-xxhdpi_my_icon_round.webp.flat",
+        "source": "com.luqman.corp.pokeapp-main-23:/mipmap-xxhdpi/my_icon_round.webp"
+    },
+    {
+        "merged": "com.luqman.corp.pokeapp-debug-28:/mipmap-xxxhdpi_my_icon_round.webp.flat",
+        "source": "com.luqman.corp.pokeapp-main-23:/mipmap-xxxhdpi/my_icon_round.webp"
+    },
+    {
+        "merged": "com.luqman.corp.pokeapp-debug-28:/mipmap-hdpi_my_icon.webp.flat",
+        "source": "com.luqman.corp.pokeapp-main-23:/mipmap-hdpi/my_icon.webp"
+    },
+    {
+        "merged": "com.luqman.corp.pokeapp-debug-28:/mipmap-hdpi_my_icon_round.webp.flat",
+        "source": "com.luqman.corp.pokeapp-main-23:/mipmap-hdpi/my_icon_round.webp"
+    },
+    {
+        "merged": "com.luqman.corp.pokeapp-debug-28:/mipmap-mdpi_my_icon.webp.flat",
+        "source": "com.luqman.corp.pokeapp-main-23:/mipmap-mdpi/my_icon.webp"
+    }
+]

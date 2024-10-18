@@ -1,0 +1,27 @@
+{
+  "app_title": "PokeApp",
+  "loading": "Loading",
+  "no_internet": "No Internet Connection",
+  "settings": "Settings",
+  "dark": "Dark",
+  "light": "Light",
+  "language": "Language",
+  "no_data_found": "No data found",
+  "search": "Search",
+  "pokemon_detail": "Pokemon Detail",
+  "abilities": "Abilities",
+  "moves": "Moves",
+  "height": "Height",
+  "weight": "Weight",
+  "attack": "Attack",
+  "defense": "Defense",
+  "speed": "Speed",
+  "special_attack": "Special Attack",
+  "special_defense": "Special Defense",
+  "home": "Home",
+  "comparing": "Comparing",
+  "comparing_title": "Choose pokemon for comparing",
+  "clear": "Clear",
+  "compare_message": "Please clear first before choose pokemon"
+
+}

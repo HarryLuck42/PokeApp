@@ -1,0 +1,27 @@
+{
+  "app_title": "PokeApp",
+  "loading": "Memuat",
+  "no_internet": "Tidak ada koneksi Internet",
+  "settings": "Pengaturan",
+  "dark": "Gelap",
+  "light": "Cerah",
+  "language": "Bahasa",
+  "no_data_found": "Tidak ada data",
+  "search": "Cari",
+  "pokemon_detail": "Detail Pokemon",
+  "abilities": "Kemampuan",
+  "moves": "Gerakan",
+  "height": "Tinggi",
+  "weight": "Massa",
+  "attack": "Serangan",
+  "defense": "Pertahanan",
+  "speed": "Kecepatan",
+  "special_attack": "Serangan Spesial",
+  "special_defense": "Petahanan Spesial",
+  "home": "Beranda",
+  "comparing": "Membandingkan",
+  "comparing_title": "Pilih pokemon untuk dibandingkan",
+  "clear": "Hapus",
+  "compare_message": "Mohon menghapus dahulu sebelum memilih"
+
+}

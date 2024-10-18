@@ -1,0 +1,1 @@
+ /Users/hariyantolukman/MyProject/FlutterProject/pokemon_game/.dart_tool/flutter_build/64ddb6193c2c6f42a1af3e1e52bc11a7/native_assets.yaml: 

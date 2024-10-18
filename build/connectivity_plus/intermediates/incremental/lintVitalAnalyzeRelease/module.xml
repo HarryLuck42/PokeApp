@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="/Users/hariyantolukman/.pub-cache/hosted/pub.dev/connectivity_plus-6.0.5/android"
+    name=":connectivity_plus"
+    type="LIBRARY"
+    maven="dev.fluttercommunity.plus.connectivity:connectivity_plus:"
+    agpVersion="8.3.0"
+    buildFolder="/Users/hariyantolukman/MyProject/FlutterProject/movienjoy/build/connectivity_plus"
+    bootClassPath="/Users/hariyantolukman/Library/Android/sdk/platforms/android-34/android.jar:/Users/hariyantolukman/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>
